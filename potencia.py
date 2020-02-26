@@ -1,5 +1,5 @@
 def potencia(a,b):
-    pow(a,b)
+    return pow(a,b)
 
 #Ejemplo
 potencia(2,3)
